@@ -8,7 +8,7 @@
   
 - 📫 How to reach me:
 -  E-mail: rishitvishwakarma2007@gmail.com
-- Instagram: https://www.instagram.com/gudadz759/
+
 - 
 - 😄 Pronouns: He
 - ⚡ Fun fact: The first computer virus was created in 1983 and was called the "Elk Cloner." It spread through floppy disks on Apple II computers and displayed a poem.

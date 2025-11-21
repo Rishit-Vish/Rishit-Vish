@@ -4,8 +4,6 @@
 - 
 - 🌱 I’m currently learning full stack development and looking forward to expanding my skills in digital marketing, AI/ML, and cyber security in the near future.
 - 
-- 💞️ I’m looking to collaborate on: "I'm looking to collaborate on projects that combine my web development skills with my growing interests in digital marketing, full stack development, AI/ML, and cyber security, and explore opportunities to integrate these technologies into my ad agency to create innovative and effective advertising solutions."
-  
 - 📫 How to reach me:
 -  E-mail: rishitvishwakarma2007@gmail.com
 

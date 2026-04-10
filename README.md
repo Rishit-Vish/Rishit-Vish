@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rishit-Vish&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rishit-Vish&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=Rishit-Vish&theme=tokyonight)
 

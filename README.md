@@ -19,11 +19,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rishit-Vish&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishit-Vish&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit-Vish&layout=compact&theme=tokyonight)
 
 
 ## 🛠️ Tech Stack
@@ -37,7 +37,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cyber+Security+Learner;Python+Developer;Building+Real+Projects;Always+Learning...)
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Rishit-Vish&color=blue)
 
 
 

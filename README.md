@@ -10,12 +10,23 @@
 
 ---
 
-## ⚡ Skills
-- Python
-- Networking
-- Cyber Security
+## 🛠️ Skills
 
----
+- Python  
+- Networking  
+- Cyber Security (Intermediate)  
+- Data Science (Learning)  
+- GenAI (Learning)  
+- Advanced Excel
+
+
+## 🚀 Projects
+
+- Bank Management System  
+  - Python + OOPS + JSON  
+
+- Movie Ticket Booking System  
+  - Python + OOPS
 
 ## 📊 GitHub Stats
 
@@ -29,14 +40,17 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
-![CyberSecurity](https://img.shields.io/badge/CyberSecurity-black?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/CyberSecurity-Intermediate-black?style=for-the-badge)
 
+![Data Science](https://img.shields.io/badge/Data%20Science-Learning-blue?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-Learning-purple?style=for-the-badge)
+![Advanced Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 💬 About Me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cyber+Security+Learner;Python+Developer;Building+Real+Projects;Always+Learning...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Python+Developer;Building+Real-World+Projects;Focused+on+Learning+and+Growth;Future+AI+%26+Security+Engineer)
 
-![Visitors](https://komarev.com/ghpvc/?username=Rishit-Vish&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Rishit-Vish&color=blue&style=for-the-badge)
 
 
 

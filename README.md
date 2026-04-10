@@ -1,12 +1,11 @@
 # Hi 👋, I'm Rishit Vish
 
-🚀 Cyber Security | Python | Networking  
-💻 Building: Models  
+--- 
 
----
+## 💬 About Me
 
-## 🌐 Connect with me
-- Email: rishitvishwakarma2007@gmail.com
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Aspiring+Data+Scientist;GenAI;Python+Developer)
+
 
 ---
 
@@ -28,6 +27,12 @@
 - Movie Ticket Booking System  
   - Python + OOPS
 
+---
+
+## 🌐 Connect with me
+- Email: rishitvishwakarma2007@gmail.com
+- 
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rishit-Vish&show_icons=true&theme=tokyonight)
@@ -38,19 +43,17 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
-![Cyber Security](https://img.shields.io/badge/CyberSecurity-Intermediate-black?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/CyberSecurity-Intermediate-black?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Data%20Science-Learning-blue?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/GenAI-Learning-purple?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-![Data Science](https://img.shields.io/badge/Data%20Science-Learning-blue?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/GenAI-Learning-purple?style=for-the-badge)
-![Advanced Excel](https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 💬 About Me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Python+Developer;Building+Real-World+Projects;Focused+on+Learning+and+Growth;Future+AI+%26+Security+Engineer)
-
-![Visitors](https://komarev.com/ghpvc/?username=Rishit-Vish&color=blue&style=for-the-badge)
 
 
 

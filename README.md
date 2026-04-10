@@ -2,6 +2,8 @@
 
 --- 
 
+![Snake animation](https://github.com/Rishit-Vish/Rishit-Vish/blob/main/dist/github-contribution-grid-snake.svg)
+
 ## 💬 About Me
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Aspiring+Data+Scientist;Exploring+GenAI;Python+Developer)

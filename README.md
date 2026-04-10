@@ -4,7 +4,7 @@
 
 ## 💬 About Me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Aspiring+Data+Scientist;GenAI;Python+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Aspiring+Data+Scientist;Exploring+GenAI;Python+Developer)
 
 
 ---
@@ -31,7 +31,7 @@
 
 ## 🌐 Connect with me
 - Email: rishitvishwakarma2007@gmail.com
-- 
+
 
 ## 📊 GitHub Stats
 

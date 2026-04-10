@@ -19,11 +19,12 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rishit-Vish&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishit-Vish&show_icons=true&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rishit-Vish&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rishit-Vish&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishit-Vish&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Rishit-Vish&theme=tokyonight)
+
 
 
 ## 🛠️ Tech Stack

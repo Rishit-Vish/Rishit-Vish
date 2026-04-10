@@ -1,17 +1,44 @@
-- 👋 Hi, I’m @Rishit-Vish
-- 
-- 👀 I’m interested in exploring the intersection of technology and marketing, particularly in digital marketing, full stack development, AI/ML, and cyber security, and how they can be leveraged to drive innovation in the advertising industry.
-- 
-- 🌱 I’m currently learning full stack development and looking forward to expanding my skills in digital marketing, AI/ML, and cyber security in the near future.
-- 
-- 📫 How to reach me:
--  E-mail: rishitvishwakarma2007@gmail.com
+# Hi 👋, I'm Rishit Vish
 
-- 
-- 😄 Pronouns: He
-- ⚡ Fun fact: The first computer virus was created in 1983 and was called the "Elk Cloner." It spread through floppy disks on Apple II computers and displayed a poem.
+🚀 Cyber Security | Python | Networking  
+💻 Building: Models  
 
-<!---
-Rishit-Vish/Rishit-Vish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌐 Connect with me
+- Email: rishitvishwakarma2007@gmail.com
+
+---
+
+## ⚡ Skills
+- Python
+- Networking
+- Cyber Security
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
+![CyberSecurity](https://img.shields.io/badge/CyberSecurity-black?style=for-the-badge)
+
+
+## 💬 About Me
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cyber+Security+Learner;Python+Developer;Building+Real+Projects;Always+Learning...)
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+
+
+

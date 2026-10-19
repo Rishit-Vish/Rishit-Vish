@@ -57,8 +57,8 @@ An end-to-end machine learning project that estimates used car selling prices fr
 | Project | Description | Tech |
 |---|---|---|
 | **[CarDekho Price Prediction](https://github.com/Rishit-Vish/CarDekho-Used-Car-Price-Prediction)** | End-to-end ML project with a validated prediction API and web interface | Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FastAPI, Pydantic, HTML, CSS, JavaScript |
-| **Bank Management System** | Python application built on object-oriented design | Python, OOP, JSON |
-| **Movie Ticket Booking System** | Python application built on object-oriented design | Python, OOP |
+| **[Bank Management System](https://github.com/Rishit-Vish/Bank-Management)** | Python application built on object-oriented design | Python, OOP, JSON |
+| **[Movie Ticket Booking System](https://github.com/Rishit-Vish/Movie-Ticket-Booking-System)** | Python application built on object-oriented design | Python, OOP |
 
 ---
 
